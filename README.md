@@ -4,7 +4,7 @@ HTML & CSS
 
 # Screenshots
 
-<img src=>
+<img src=screenshot-page.png>
 
 # Deployment 
 
