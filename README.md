@@ -8,4 +8,4 @@ HTML & CSS
 
 # Deployment 
 
- <a href=""> <strong >YOU CAN REVIEW PROJECT HERE </strong> </a>
+ <a href="https://khatiachip.github.io/Component-page/"> <strong >YOU CAN REVIEW PROJECT HERE </strong> </a>
